@@ -1,0 +1,3 @@
+C:/progr/git_test/cmake-build-debug/CMakeFiles/git_test.dir
+C:/progr/git_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/progr/git_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
